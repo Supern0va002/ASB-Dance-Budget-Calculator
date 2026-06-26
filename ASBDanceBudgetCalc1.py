@@ -1,6 +1,6 @@
 """
 ASB Dance Ticket Price Calculator
-Calculates the base ticket price needed to break even on a dance budget.
+Calculates the ticket price needed to break even on a dance budget, or profit.
  
 Ticket Tiers:
   - Activity sticker + Early:    x
