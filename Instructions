@@ -1,0 +1,6 @@
+Download the ASB Dance Budget Calculator to a personal laptop. 
+Install Visual Studio Code (https://code.visualstudio.com/) and inside of it install Python if not installed (https://code.visualstudio.com/docs/python/python-tutorial). 
+Edit the dance attendance with the average historical attendance. Talk with Penner.
+Edit the ticket distribution percentages, which are currently set at 25%. The total percentage must add to 100%, and should reflect a rough estimate of when/how students buy tickets (early or late tickets and with or without ASB stickers). Talk with Penner.
+Save the program with Control S, which will overwrite the old file with a new one that contains the information you just input.
+Run the program using the triangle in the top right of Visual Studio Code, which will prompt you for the dance you wish to plan for, your budget, and your expected profit.
